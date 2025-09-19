@@ -1,0 +1,30 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "volna-585e4",
+                    "appId": "1:9300496749:android:f7448285f12f33f6740a64",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "volna-585e4",
+                    "appId": "1:9300496749:ios:4bc403852e0c0958740a64",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "volna-585e4",
+                    "configurations": {
+                        "android": "1:9300496749:android:f7448285f12f33f6740a64",
+                        "ios": "1:9300496749:ios:4bc403852e0c0958740a64"
+                    }
+                }
+            }
+        }
+    }
+}

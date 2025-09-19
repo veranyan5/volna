@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "9300496749",
+    "project_id": "volna-585e4",
+    "storage_bucket": "volna-585e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9300496749:android:f7448285f12f33f6740a64",
+        "android_client_info": {
+          "package_name": "com.tokarevco.volna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9300496749-a6sahpt248000grrp98tkgbtp2v6sap3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6PUq6v_PyL1RJbj3SsNalldToHfWyKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9300496749-a6sahpt248000grrp98tkgbtp2v6sap3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9300496749-g1ec8nk8cf5jqn2choasbllqhu8bp942.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tokarevco.volna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
